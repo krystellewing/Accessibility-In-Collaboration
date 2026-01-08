@@ -1,2 +1,2 @@
 # Accessibility-In-Collaboration
-All projects completed during my Accessibility course and during Accessibility research
+Welcome to my Accessibility Repository! This repository contains projects and presentations that were completing during my time in my Accessibility in Technology electice during Spring 2023 and the Accessibility In Collaboration research lab during Summer 2023 under Professor Anne Ross. Below, you will find a brief overview of the content. Please note that these projects are not the only projects that were completed during my time in undergrad but are projects that I feel are relevant to the career in data analytics and design that I am interested in.
